@@ -2,10 +2,10 @@
   "name": "interaction_backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "app.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node index.ts"
+    "start": "ts-node app.ts"
   },
   "keywords": [],
   "author": "",
